@@ -9,4 +9,4 @@ kubectl create secret generic azure-secret \
 
 -------------------
 #### References : 
-- [Create AKS with Windows Node Pool](https://docs.microsoft.com/en-us/azure/aks/windows-container-cli)
+- [Create AKS Cluster with Windows Node Pool](https://docs.microsoft.com/en-us/azure/aks/windows-container-cli)
